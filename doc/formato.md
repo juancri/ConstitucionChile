@@ -4,7 +4,7 @@
 Este repositorio incluye normas con el siguiente formato de ruta:
 
 ```
-NUMCOMISION-NOMBRECOMISION/ESTADO/NUMARTICULO(-NUMINCISO)?(-nNUMERAL)?.md
+articulos/NUMCOMISION-NOMBRECOMISION/ESTADO/NUMARTICULO(-NUMINCISO)?(-nNUMERAL)?.md
 ```
 
 Donde
@@ -18,7 +18,7 @@ Donde
 
 ## Ejemplos
 
-### `06-SistemasDeJusticia/rechazados/001-01.md`:
+### `articulos/06-SistemasDeJusticia/rechazados/001-01.md`:
 
 - Comisión número 6
 - Comisión "Sistemas de Justicia"
@@ -27,7 +27,7 @@ Donde
 - Inciso 1
 - Sin numeral
 
-### `03-FormaDeEstado/aprobados/018.md`
+### `articulos/03-FormaDeEstado/aprobados/018.md`
 
 - Comisión número 3
 - Comisión "Forma de Estado"
@@ -36,7 +36,7 @@ Donde
 - Sin inciso
 - Sin numeral
 
-### `03-FormaDeEstado/rechazados/027-n19.md`
+### `articulos/03-FormaDeEstado/rechazados/027-n19.md`
 
 - Comisión número 3
 - Comisión "Forma de Estado"

@@ -8,7 +8,7 @@ import ArticuloFactory from './ArticuloFactory';
 import { Articulo } from "./types";
 
 // Constants
-const BASE_DIR = path.join(__dirname, '../../..');
+const BASE_DIR = path.join(__dirname, '../../../articulos');
 const APROBADOS = 'aprobados';
 
 export default class FileCrawler
