@@ -2,6 +2,7 @@
 export interface Articulo
 {
 	numero: number;
+	numeroOrdinal: string;
 	texto: string;
 }
 

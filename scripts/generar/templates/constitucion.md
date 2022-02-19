@@ -11,7 +11,7 @@ output: pdf_document
 
 {{#each this.articulos}}
 
-{{{this.numero}}}: {{{this.texto}}}
+{{{this.numeroOrdinal}}}: {{{this.texto}}}
 
 {{/each}}
 

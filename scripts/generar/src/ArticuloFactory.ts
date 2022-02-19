@@ -1,5 +1,6 @@
 
 // Dependencies
+import { toOrdinal } from 'ordinales-js';
 import fs from 'fs';
 import path from 'path';
 
@@ -13,8 +14,10 @@ export default class ArticuloFactory
 {
 	public static create(dir: string, file: string): Articulo
 	{
+		const numero = ArticuloFactory.getNumeroArticulo(file);
 		return {
-			numero: ArticuloFactory.getNumeroArticulo(file),
+			numero,
+			numeroOrdinal: toOrdinal(numero).toUpperCase(),
 			texto: ArticuloFactory.getTextoArticulo(dir, file)
 		};
 	}
