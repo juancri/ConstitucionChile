@@ -36,7 +36,7 @@ Donde
 - Sin inciso
 - Sin numeral
 
-### `./03-FormaDeEstado/rechazados/027-n19.md`
+### `03-FormaDeEstado/rechazados/027-n19.md`
 
 - Comisión número 3
 - Comisión "Forma de Estado"
