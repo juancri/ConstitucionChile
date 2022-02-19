@@ -15,5 +15,6 @@ export interface GrupoArticulos
 export interface TemplateData
 {
 	fecha: string,
+	fechaCorta: string,
 	grupos: GrupoArticulos[]
 }

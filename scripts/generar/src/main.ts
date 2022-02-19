@@ -16,6 +16,7 @@ try
 	// Get all data
 	const data: TemplateData = {
 		fecha: DateGenerator.generate(),
+		fechaCorta: DateGenerator.generateShort(),
 		grupos: grupos.flatMap(grupo => ({
 			articulos: FileCrawler.getArticulosAprobados(grupo[0]),
 			titulo: grupo[1]
