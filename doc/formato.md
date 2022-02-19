@@ -18,7 +18,7 @@ Donde
 
 ## Ejemplos
 
-### `articulos/06-SistemasDeJusticia/rechazados/001-01.md`:
+### `articulos/06-SistemasDeJusticia/rechazados/001-01.md`
 
 - Comisión número 6
 - Comisión "Sistemas de Justicia"
