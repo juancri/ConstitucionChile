@@ -13,6 +13,6 @@
 
 `make`
 
-## Archivo de saluda
+## Archivo de salida
 
 `output/constitucion.pdf`
