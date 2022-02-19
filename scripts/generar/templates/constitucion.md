@@ -1,7 +1,6 @@
 ---
 title: "Constitución Política de Chile"
 date: Borrador al {{{fecha}}}
-author: \href{https://github.com/juancri/ConstitucionChile}{github.com/juancri/ConstitucionChile}
 geometry: margin=2cm
 output: pdf_document
 header-includes: |
@@ -24,6 +23,7 @@ header-includes: |
 
 {{#each grupos}}
 
+\newpage
 ## {{this.titulo}}
 
 {{#each this.articulos}}
