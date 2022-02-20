@@ -3,6 +3,9 @@ name: 'Generar PDF'
 on:
   push:
     branches: [ '*' ]
+    paths:
+      - 'articulos/**'
+      - 'scripts/generar/**'
   pull_request:
     branches: [ '*' ]
   workflow_dispatch:
