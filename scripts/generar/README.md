@@ -4,6 +4,7 @@
 - Node 16.x
 - GNU Make
 - pandoc
+- LaTeX
 
 ## Instalar
 
