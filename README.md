@@ -15,8 +15,9 @@ Cada vez que se actualizan los archivos de normas, el repositorio genera un borr
 
 Algunas de las características que me gustaría desarrollar:
 
-- Generar un borrador que incluya las normas marcadas con colores según el estado de cada una
-- Generar un sitio web desde el historial de git para visualizar el proceso de cada uno de los artículos
+- [Obtener el historial previo a la creación de este repositorio](https://github.com/juancri/ConstitucionChile/issues/2)
+- [Generar un borrador que incluya las normas marcadas con colores según el estado de cada una](https://github.com/juancri/ConstitucionChile/issues/3)
+- [Generar un sitio web desde el historial de git para visualizar el proceso de cada uno de los artículos](https://github.com/juancri/ConstitucionChile/issues/4)
 
 ## Normas
 
